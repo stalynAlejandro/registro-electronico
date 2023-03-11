@@ -1,8 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
 
 function App() {
-    return <div>App</div>;
+    return <div>App React</div>;
 }
 
 export default App;
